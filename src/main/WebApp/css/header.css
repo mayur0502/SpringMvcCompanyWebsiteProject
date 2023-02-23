@@ -1,0 +1,115 @@
+
+
+* {box-sizing: border-box;}
+ body { 
+  margin: 0;
+  font-family: Arial, Helvetica, sans-serif;
+} 
+#about{
+	color: black;
+	text-align: center;
+	margin:top
+}
+.h-body{
+background-color: #e20074;
+padding:11%;
+width : 100%;
+
+color: white;
+}
+.A-body{
+background-color: #e20074;
+padding:1%;
+width : 100%;
+
+color: white;
+}
+.h-img{
+	
+	background-color: #e20074;
+	float:left;
+		padding:1%;
+
+}
+.h-para{
+	background-color: #e20074;
+float : right;
+color:white;
+
+
+}
+
+.header {
+  overflow: hidden;
+  background-color: black;
+  padding: 3px 2px;
+}
+.header a {
+  float: left;
+  color: black;
+  text-align: center;
+  color:white;
+  padding: 10px;
+  text-decoration: none;
+  font-size: 18px; 
+  line-height: 30px;
+  border-radius: 2px; 
+}
+.header a.logo {
+ height :1%;
+ width:5%;
+}
+.header-right a:hover {
+  background-color: #ddd;
+  color: black; 
+}
+.header-right {
+  float: right;
+  align: center;
+}
+
+
+.footer {
+  overflow: hidden;
+  position: fixed;
+   left: 0;
+   bottom: 0;
+   width: 100%;
+  background-color: black;
+
+   text-align: center;
+}
+.f-spam{
+  float: left;
+  color: black;
+  text-align: center;
+  color:#f3971b;
+  padding: 15px;
+  text-decoration: none;
+  font-size: 16px; 
+  line-height: 25px;
+
+}
+
+.f-top{
+  float: right;
+  color: black;
+  text-align: center;
+  color:#f3971b;
+  padding: 15px;
+  text-decoration: none;
+  font-size: 16px; 
+  line-height: 25px;
+   
+}
+.f-middle{
+  float: left;
+  color: black;
+  text-align: center;
+  color:#ffffff;
+	text-decoration: none;
+  padding: 15px;
+  font-size: 14px; 
+  line-height: 25px;
+
+}
